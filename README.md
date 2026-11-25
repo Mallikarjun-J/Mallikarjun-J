@@ -4,7 +4,7 @@
 I architect scalable, secure web applications, asynchronous backend microservices, and AI-enabled automation workflows. Passionate about building enterprise-grade SaaS platforms with rigorous security standards and low-latency systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mallikarjun_Janawad-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mallikarjun-janawad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-180+_Solved-FFA116?style=flat&logo=leetcode)](https://leetcode.com/mallikarjunjanawad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200+_Solved-FFA116?style=flat&logo=leetcode)](https://leetcode.com/mallikarjunjanawad)
 [![GCP Certified](https://img.shields.io/badge/GCP-Cloud_Foundations-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com)
 
 ---
